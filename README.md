@@ -41,13 +41,13 @@ https://nextbitestudio.com
 # 📸 Screenshots
 
 ## Homepage
-![Dashboard](images/dashboardnbs.png)
+![Dashboard](images/dashboardnbs.jpg)
 
 ## Projects
-![Projects](images/projectsnbs.png)
+![Projects](images/projectsnbs.jpg)
 
 ## Services
-![Services](images/servicesnbs.png)
+![Services](images/servicesnbs.jpg)
 
 ## Mobile View
 ![Mobile View](images/mobileview.jpg)
